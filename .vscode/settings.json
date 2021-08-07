@@ -1,0 +1,6 @@
+{
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.enableAsyncCompletion": true,
+    "csharpextensions.useThisForCtorAssignments": false,
+    "csharpextensions.privateMemberPrefix": "_"
+}
