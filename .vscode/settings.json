@@ -2,5 +2,6 @@
     "omnisharp.enableRoslynAnalyzers": true,
     "omnisharp.enableAsyncCompletion": true,
     "csharpextensions.useThisForCtorAssignments": false,
-    "csharpextensions.privateMemberPrefix": "_"
+    "csharpextensions.privateMemberPrefix": "_",
+    "compile-hero.disable-compile-files-on-did-save-code": true
 }
